@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my GitHub page! I'm a crypto enthusiast specialized in node installation and an active validator in the Cosmos and Polkadot networks. Feel free to explore my projects and join in!
+
 <!--
 **aroslavbroarcuk/aroslavbroarcuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
